@@ -4,8 +4,8 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
+追求Noops的devops。
 
-You can find the source code for the Jekyll new theme at: [github.com/jglovier/jekyll-new](https://github.com/jglovier/jekyll-new)
+爱文学，喜技术。左手编程，右手写诗。
 
-You can find the source code for Jekyll at [github.com/jekyll/jekyll](https://github.com/jekyll/jekyll)
+素喜随性，随遇而安。可以静静地看你装逼，也可以狂狷地陪你吹牛逼，但对于踩着别人自吹的傻逼必鄙而远之，不屑交之。只是一个单纯玩技术的人，玩不来甄嬛传。
